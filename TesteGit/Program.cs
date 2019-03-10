@@ -7,6 +7,7 @@ namespace TesteGit
         static void Main(string[] args)
         {
             Console.WriteLine("Teste github!");
+            Console.WriteLine("Tenha um bom dia!");
         }
     }
 }
